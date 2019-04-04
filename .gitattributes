@@ -1,2 +1,5 @@
-*.xlam linguist-language=Visual Basic
-img linguist-detectable=false
+# ignore all
+* linguist-vendored
+
+# except xlam set to VB
+*.xlam linguist-language=Visual-Basic
