@@ -1,5 +1,2 @@
-# ignore all
-* linguist-vendored
-
-# except xlam set to VB
+img/* linguist-vendored=true
 *.xlam linguist-language=Visual-Basic
